@@ -11,14 +11,11 @@ Anyone is free to use and copy this material (at their own risk!).
 But, please cite the material if you use the material in your own class.
 
 ## Pre-requisites
-The class assumes knowledge of:
-* Undergraduate probability (stochastic processes)
-* Undergruate signals and systems
-Familiarity with MATLAB or equivalent language is preferred.
+The class assumes knowledge of undergraduate probability (stochastic processes),
+undergraduate signals and systems. Familiarity with MATLAB or equivalent language
+is preferred.
 
 ## Sequence
-We will add to this section as the class progresses.
-
 * Unit 1.  Passband modulation
     * MATLAB exercise:  [Simulating up- and down-conversion](./unit01_passband/lab_passband_partial.m)
 * Unit 2.  Amplitude modulation
